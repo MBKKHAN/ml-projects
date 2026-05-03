@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python env
+stat-env/
+venv/
+env/
+
+# Git repos inside repo
+Struggle/
+parallel_ml_tutorial/
+skpro/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
